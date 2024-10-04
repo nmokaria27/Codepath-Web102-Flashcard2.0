@@ -28,10 +28,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/nmokaria27/Codepath-Web102-Flashcard2.0/blob/main/FlascardGame2.0-Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2024] [Neel Mokaria]
